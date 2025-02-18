@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ...
+WELCOME TO MY GITHUB REPO !!!!
+
+🌱 I’m currently learning ...
 
 
